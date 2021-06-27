@@ -6,7 +6,7 @@ Course: Digital Humanity 100 by Dr. Adam Anderson
 DH-100 Project focusing on analyzing NBA statistics.
 
 ### Table of Contents
-1. All versions of Storyboard
+1. All 4 versions of Storyboard
 2. Final project poster
 3. Jupyter Notebook
 4. .zip file with all the data used
