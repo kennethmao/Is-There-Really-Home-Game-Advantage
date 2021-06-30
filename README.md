@@ -10,7 +10,7 @@ DH-100 Project focusing on analyzing NBA statistics.
 - Week 1: https://github.com/kennethmao/Is-There-Really-Home-Game-Advantage/blob/main/DH%20100%20Poster%20Draft.pdf
 - Week 2: https://github.com/kennethmao/Is-There-Really-Home-Game-Advantage/blob/main/DH%20100%20Poster%20Week%202.pdf
 - Week 3: https://github.com/kennethmao/Is-There-Really-Home-Game-Advantage/blob/main/DH%20100%20Poster%20Week%203.pdf
-- Week 4:https://github.com/kennethmao/Is-There-Really-Home-Game-Advantage/blob/main/DH%20100%20Poster%20Week%204.pdf
+- Week 4: https://github.com/kennethmao/Is-There-Really-Home-Game-Advantage/blob/main/DH%20100%20Poster%20Week%204.pdf
 2. Final project poster
 - https://github.com/kennethmao/Is-There-Really-Home-Game-Advantage/blob/main/DH%20100%20Poster%20Week%204.pdf
 3. Jupyter Notebook
