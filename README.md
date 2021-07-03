@@ -22,3 +22,7 @@ DH-100 Project focusing on analyzing NBA statistics.
 In team sports, the term home advantage, also called home-court advantage, describes the advantahe that the home team is said to gain over the visiting team. This benefit has been attributed to psychological effects supporting fans have on the competitors or referees; to psychological or physiological advantages of playing near home in familiar situations; to the disadvantages away teams suffer from changing time zones or climates, or from the rigors of trave. 
 
 Using data from previous seasons, including the 2020 season and excluding all the playoff (post-season) games, this project will reveal if home-court advantage really exist.
+
+Video Tutorial of Peoject:
+- https://drive.google.com/file/d/1-IEzjFcBmt9BuHcAS85tXJnffKGKy3SL/view?usp=sharing
+- https://www.wevideo.com/view/2251712225
